@@ -16,9 +16,8 @@ Deployed Website : https://stutisharma273.github.io/Tindog/
   
 ## Authors
 
-  *Stuti Sharma*
   [Stuti Sharma](https://github.com/StutiSharma273)
   
 ## Acknowledgements
 
-  * The Complete 2022 Web Development Bootcamp by Angela Yu
+  * The Complete 2022 Web Development Bootcamp by [Angela Yu](https://github.com/angelabauer)
